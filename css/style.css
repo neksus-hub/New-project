@@ -1,1 +1,3 @@
-
+.card-avatar {
+  object-fit: cover;
+}
